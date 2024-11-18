@@ -8,7 +8,6 @@ This project analyzes factors influencing IMDB movie scores and develops predict
 1. [Project Overview](#project-overview)
 2. [Data](#data)
 3. [Requirements](#requirements)
-4. Copyright Notice
 
 
 ---
@@ -43,10 +42,8 @@ Install the required packages using:
 ```R
 install.packages(c("psych", "car", "lmtest", "plm", "caret", "splines"))
 
-
-## Copyright Notice
-
-This project was created as part of coursework for a subject at McGill University. 
+Copyright Notice
+This project was created as part of coursework for a subject at McGill University.
 
 The dataset used in this repository is sourced from materials provided during the course and is intended solely for educational and non-commercial purposes. Unauthorized use, distribution, or reproduction of this dataset or any part of this repository without explicit permission is prohibited.
 
