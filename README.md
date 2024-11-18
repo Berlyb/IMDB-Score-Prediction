@@ -8,15 +8,7 @@ This project analyzes factors influencing IMDB movie scores and develops predict
 1. [Project Overview](#project-overview)
 2. [Data](#data)
 3. [Requirements](#requirements)
-4. [Code Explanation](#code-explanation)
-    - [Exploratory Data Analysis](#exploratory-data-analysis)
-    - [Regression Models](#regression-models)
-    - [Non-Linear Models](#non-linear-models)
-    - [Cross-Validation](#cross-validation)
-    - [Log Transformation](#log-transformation)
-5. [Usage](#usage)
-6. [Predictions](#predictions)
-7. [Key Findings](#key-findings)
+
 
 ---
 
